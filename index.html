@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<h1>this is index header</h1>
+{% endblock %}
+
+{% block body %}
+<table>
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Location</th>
+        <th>Favorite Color</th>
+    </tr>
+    <tbody>
+    {% for item in people %}
+    <tr>
+        <td>{{item['name']}}</td>
+        <td>{{item['age']}}</td>
+        <td>{{item['location']}}</td>
+        <td>{{item['favorite_color']}}</td>
+
+    </tr>
+    {% endfor %}
+    </table>
+
+{% endblock %}
