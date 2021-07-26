@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+
+    <div class="player">
+        <h3 class="player_title">Video Tutorial how to make {{posts.name}} !</h3>
+        <iframe width="560" height="315" src={{posts.src}} title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+        </iframe>
+    </div>
+
+    <div class="ingredients">
+        <h2> Ingredients </h2><br>
+        <ul>
+            {% for item in posts.ingredients %}
+            <li> {{ item }}</li>
+            {% endfor  %}
+        </ul>
+    </div>
+
+    <div class="instructions">
+        <h2> Steps to make cocktail:</h2>
+        <ol>
+            {% for item in posts.instructions %}
+            <li> {{ item }}</li>
+            {% endfor  %}
+        </ol>
+    </div>
+
+
+
+{% endblock %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuZzOcjJUYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
