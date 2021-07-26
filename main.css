@@ -8,7 +8,6 @@
 
 body{
     font-family: Trebuchet MS, sans-serif;
-
     background-image:url('https://gdurl.com/wUaS');
     background-repeat: no-repeat;
     background-position: 45% 15%;
@@ -17,7 +16,8 @@ body{
 
 div.container{
     width: 65%;
-    height: 850px;
+    min-height: 850px;
+    height: auto;
     padding: 50px;
     left: 50%;
     margin-left: 15%;
@@ -141,9 +141,38 @@ a:hover{
         margin-left: 40px;
     }
 }
-.page_button{
+.next_button{
       position: absolute;
       right: 300px;
       width: 300px;
       padding: 40px;
+}
+
+.prev_button{
+      position: absolute;
+      left: 500px;
+      width: 400px;
+      padding: 40px;
+}
+
+.player{
+    float :left;
+    padding-top : 20px;
+    padding-left: 20px;
+}
+.player_title{
+    padding : 10px;
+}
+
+.ingredients{
+    padding-top: 50px;
+    text-align: center;
+    width: 65%
+    float:right;
+    padding-left: 50%;
+}
+
+.instructions{
+    padding-top: 200px;
+
 }
