@@ -225,10 +225,29 @@ ct = {
                           "img": "",
                           "src": "https://www.youtube.com/embed/RuZzOcjJUYw",
                           "name": "Sazerac"
+                        },
+    "vieux_carre" :     { "ingredients" : ["1 oz Rye Whiskey", " 1 oz Cognac", "1 oz Sweet Vermouth", "Dash of Benedictine liqueur",
+                                           "2 Dashes of Angostura Bitters", " Garnish: Orange Twist and Luxardo Cherry"],
+                          "instructions" : ["1. Add the whiskey, cognac, sweet vermouth, Benedictine and bitters into a mixing"
+                                            " glass with ice.",
+                                            "2. Stire until well-chilled.",
+                                            "3. Strain into a rocks glass over fresh ice or cocktail glass.",
+                                            "4. Garnish with a cheery, a lemon twist, or both."],
+                          "img": '',
+                          "src" : "https://www.youtube.com/embed/UR5rahGRxhs",
+                          "name" : "Vieux Carre"
+                        },
+    "whiskey_sour" :    { "ingredients" : ["2 oz Whiskey", ".75 oz Lemon Juice", ".75 oz Simple Syrup", "1 egg white",
+                                           "Garnish: Angostura Bitters"],
+                          "instructions" : ["1. Add whiskey, lemon juice, simple syrup and egg white to a shaker.",
+                                            "2. Dry shake(without ice) for 30 seconds.",
+                                            "3. Add ice and shake again until well-chilled.",
+                                            "4. Strain into a coupe glass.",
+                                            "5. Garnish with 3 or 4 drops of Angostura bitters."],
+                          "img":"",
+                          "src" : "https://www.youtube.com/embed/hFKZPzfngcU",
+                          "name" : "Whiskey Sour"
                         }
-
-
-
 }
 
 
