@@ -52,7 +52,7 @@ ct = {
                                      "1 egg white", "Garnish: 3 raspberries"],
                      "instructions" : ["1. Add the gin, lemon juice, raspberry syrup and egg white into a shaker with ice "
                                        "and shake vigorously until well-chilled.", "2. Strain into a chilled cocktail glass.",
-                                       "Garnish with 2 speared raspberries."],
+                                       "3. Garnish with 2 speared raspberries."],
                      "img" : "",
                      "src" : "https://www.youtube.com/embed/j1v-1QchxcY",
                      "name" :"Clover Club"},
