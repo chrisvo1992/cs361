@@ -33,10 +33,18 @@
     </div>
 
     <div class="history">
+        {% if posts.history %}
         <h2 >History of {{posts.name}}</h2>
             {{posts.history}}
+        {% else %}
+            <h2>If you want to learn more about this drink visit: <a href="{{posts.wiki}} ">{{posts.wiki}} </a> </h2>
+        {% endif %}
     </div>
 
-
+    <a href="{{posts.page}}">
+        <div class="back">
+            <h2 class="back_text">Back to Results</h2>
+        </div>
+    </a>
 {% endblock %}
 

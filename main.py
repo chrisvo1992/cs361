@@ -27,14 +27,17 @@ ct = {
                                      "3. Garnish with an orange twist."],
                    "history" : "",
                    "src": "https://www.youtube.com/embed/TmeUJ2g3ogM",
-                   "name" : "Americano"
+                   "name" : "Americano",
+                   "page": "home",
+                   "wiki": "https://en.wikipedia.org/wiki/Caff%C3%A8_Americano"
                     },
     "aperol_spritz" : {"ingredients" : ["3 oz Prosecco", "2 oz Aperol", "1 oz Soda Water", "Garnish: orange slice"],
                        "instructions" : ["1. Add the prosecco, Aperol and club soda to a wine glass filled iwth ice and stir.",
                                          "2. Garnish with an orange slice."],
                        "history" : "",
                        "src" : "https://www.youtube.com/embed/cvxH8lHFKG0",
-                       "name" : "Aperol Spritz"
+                       "name" : "Aperol Spritz",
+                       "page": "home"
                     },
     "bloody_mary" : {"ingredients" : ["celery salt", "1 lemon wedge", "1 lime wedge", "2 oz vodka", "4 oz tomato juice",
                                      "2 teaspoons prepared horseradish", "2 dashes Tabasco sauce", "2 dashes Worcestershire sauce",
@@ -48,7 +51,9 @@ ct = {
                                        "6. Strain into the prepared glass.", "7. Garnish with parsley sprig, 2 speared green olivers, a lim wedge and a celery stalk."],
                     "history" : "",
                     "src" : "https://www.youtube.com/embed/rpEzoWNbgSk",
-                     "name": "Blood Mary"
+                     "name": "Blood Mary",
+                     "page": "home",
+                     "wiki": "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)"
                     },
     "clover_club" :{ "ingredients" : ["2 oz gin", " 1/2 oz lemon juicie, freshly squeezed", "1/2 oz raspberry syrup",
                                      "1 egg white", "Garnish: 3 raspberries"],
@@ -57,13 +62,17 @@ ct = {
                                        "3. Garnish with 2 speared raspberries."],
                      "history" : "",
                      "src" : "https://www.youtube.com/embed/j1v-1QchxcY",
-                     "name" :"Clover Club"},
+                     "name" :"Clover Club",
+                     "page": "home",
+                     "wiki": "https://en.wikipedia.org/wiki/Clover_Club_Cocktail"
+                     },
     "corpse_reviver" : { "ingredients" : ["1 oz cognac","1 oz Calvados", "1/2 oz sweet vermouth"],
                          "instructions" : ["1. Add the cognac, Calvadoes and sweet vermouth to a mixing glass and add ice.",
                                            "2. Stir until chilled and strain into a cocktail glass."],
                          "history": "",
                          "src" : "https://www.youtube.com/embed/YblPFVgPEKE",
-                         "name" : "Corpse Reviver"
+                         "name" : "Corpse Reviver",
+                         "page": "home"
                         },
     "daiquiri" :        { "ingredients" : ["2 oz light run", "1 oz lime juice, freshly squeezed", "3/4 oz demerara sugar syrup",
                                            "Garnish: lime twist"],
@@ -71,7 +80,9 @@ ct = {
                                             "2. Shake until well chilled.", "3. Strain into a chilled coupe.", "4. Garnish with a lime twist."],
                           "history" : "",
                           "src" : "https://www.youtube.com/embed/TbRmNrAeymo",
-                          "name" : "Daiquiri"
+                          "name" : "Daiquiri",
+                          "page": "home",
+                          "wiki": "https://en.wikipedia.org/wiki/Daiquiri"
                         },
     "dark_n_stormy" :   { "ingredients" : ["2 oz Gosling's Black Seal Rum", "1/2 oz lime juicie, freshly squeezed",
                                             "Ginger beer, to top (about 5 oz)", "Garnish: lime wedge"],
@@ -80,7 +91,9 @@ ct = {
                                             "3. Garnish with a lime wedge."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/FT43iTg0RYQ",
-                          "name": "Dark N Stormy"
+                          "name": "Dark N Stormy",
+                          "page": "home",
+                          "wiki": "https://en.wikipedia.org/wiki/Dark_%27n%27_Stormy"
                         },
     "dry_martini" :     { "ingredients" : ["2 1/2 oz gin", "1/2 oz dry vermouth", "1 dash orange bitters", "Garnish: lemon twist"],
                           "instructions" : ["1. Add the gin, dry vermouth and orange bitters into a mixing glass with ice.",
@@ -88,14 +101,18 @@ ct = {
                                             "4. Garnish with a lemon twist."],
                           "history": "",
                           "src" : "https://www.youtube.com/embed/ApMR3IWYZHI",
-                          "name": "Dry Martini"
+                          "name": "Dry Martini",
+                          "page": "home",
+                          "wiki": "https://en.wikipedia.org/wiki/Martini_(cocktail)"
                         },
     "espresso_martini" : { "ingredients" : ["1 oz vodka", " 1 oz Kahlua", "1 oz coffee"],
                            "instructions" :["1. Fill a Boston glass with ice.", "2. Add vodka, kahlua, and coffee into glass.",
                                             "3. Shake and double strain into a chilled coupe."],
                            "history": "",
                            "src" : "https://www.youtube.com/embed/nyRjNfDKQw4",
-                           "name": "Espresso Martini"
+                           "name": "Espresso Martini",
+                           "page": "results_2",
+                           "wiki": "https://en.wikipedia.org/wiki/Espresso_martini"
                         },
     "french_75" :       { "ingredients" : ["1 oz Gin", ".5 oz Lemon Juice", ".5 oz Simple Syrup", "top champagne", "Garnish: lemon twist"],
                           "instructions" : ["1. Add the gin, lemon juice and simple syrup to a shaker with ice.",
@@ -105,7 +122,9 @@ ct = {
                                             "5. Garnish with a lemon twist."],
                           "history": "",
                           "src" : "https://www.youtube.com/embed/g6jjDhuSj5o",
-                          "name" : "French 75"
+                          "name" : "French 75",
+                          "page": "results_2",
+                          "wiki": "https://en.wikipedia.org/wiki/French_75_(cocktail)"
                         },
     "gimlet" :          { "ingredients" : [".75 oz Fresh Lime Juice", " .75 oz simple syrup", "2 oz Gin", "Garnish: lime wheel"],
                           "instructions" : ["1. Add the gin, lime juice and simple syrup to a shaker with ice.",
@@ -114,7 +133,9 @@ ct = {
                                             "4. Garnish with a lime wheel."],
                           "history": "",
                           "src" : "https://www.youtube.com/embed/TuiCT7tDO88",
-                          "name" : "Gimlet"
+                          "name" : "Gimlet",
+                          "page": "results_2",
+                          "wiki": "https://en.wikipedia.org/wiki/Gimlet_(cocktail)"
                         },
     "mai_tai" :         { "ingredients" : ["2 oz aged Jamaican/White Rum", ".75 oz orange curacao", "1 oz lime juice", ".5 oz Orgeat",
                                            "Garnish: Lime Wheel, Mint Sprig"],
@@ -125,7 +146,8 @@ ct = {
                                             "5. Garnish with a lime wheel and mint sprig."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/vTqNLJG2ExE",
-                          "name" : "Mai Tai"
+                          "name" : "Mai Tai",
+                          "page": "results_2"
                         },
     "manhattan" :       { "ingredients" : ["2 oz Rye Whiskey", "1 oz Sweet Vermouth", "4-6 Dashes Angostura Bitters",
                                            "1 dash orange bitters", "Garnish: Luxardo Cherry"],
@@ -135,7 +157,8 @@ ct = {
                                            "4. Garnish with a cherry."],
                           "history": "",
                           "src" : "https://www.youtube.com/embed/wiOxt4J5zaM",
-                          "name" : "Manhattan"
+                          "name" : "Manhattan",
+                          "page": "results_2"
                          },
     "margarita" :       { "ingredients" : ["1.5 oz Tequila", ".75 oz Cointreau", ".75 oz Fresh Lime Juice", "1/2 oz agave syrup",
                                            "1/2 orange liqueur", "Garnish : lime wheel"],
@@ -145,7 +168,9 @@ ct = {
                                             "4. Garnish with a lime wheel."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/XhXgmkP1r3c",
-                          "name": "Margarita"
+                          "name": "Margarita",
+                          "page": "results_2",
+                          "wiki": "https://en.wikipedia.org/wiki/Margarita"
                         },
     "mojito":           { "ingredients" : ["2 oz White Rum", "1 oz Fresh Lime Juice", ".75 oz sugar syrup 1:1", "6-8 Mint Leaves",
                                            "2 oz Soda"],
@@ -156,7 +181,8 @@ ct = {
                                             "5. Add a dash of soda and stir thoroughly."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/NANdz-YKMUw",
-                          "name" : "Mojito"
+                          "name" : "Mojito",
+                          "page": "results_2"
                         },
     "moscow_mule" :     { "ingredients" : ["2 oz Vodka", ".75 oz Lime Juice", "4 oz top ginger beer", "Garnish: Lime Wheel"],
                           "instructions" : ["1. Fill moscow mule mug (or highball glass) with ice, then add vodka and lime juice.",
@@ -164,7 +190,8 @@ ct = {
                                             "3. Garnish with a lime wheel."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/69wSCFe4GAI",
-                          "name": "Moscow Mule"
+                          "name": "Moscow Mule",
+                          "page": "results_2"
                          },
     "negroni" :         { "ingredients" : ["1.5 oz Gin", "1 oz Sweet Vermouth", "1 oz Campari", "Garnish : orange peel"],
                           "instructions" : ["1. Add the gin, campari and sweet vermouth to a mixing glass filled with ice.",
@@ -173,7 +200,8 @@ ct = {
                                             "4. Garnish with an orange peel."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/2IXWmW1R898",
-                          "name" : "Negroni"
+                          "name" : "Negroni",
+                          "page": "results_3"
                         },
     "old_fashioned" :   { "ingredients" : ["2 oz Bourbon Whiskey", ".3 oz Sugar Syrup (2:1)", "2 dashes of Angostura Bitters",
                                            "Garnish : orange peel"],
@@ -184,7 +212,10 @@ ct = {
                                             "5. Garnish with a twist of orange peel."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/JzN8-dNHj-o",
-                          "name" : "Old Fashioned"
+                          "name" : "Old Fashioned",
+                          "page": "results_3",
+                          "wiki": "https://en.wikipedia.org/wiki/Old_fashioned_(cocktail)"
+
                         },
     "paloma" :          { "ingredients" : ["2 oz Tequila", ".5 oz Fresh Lime Juice", "Pinch of salt", "Grapefruit soda",
                                            "Garnish: Wedge of lime"],
@@ -194,7 +225,9 @@ ct = {
                                             "4. Garnish with wedge of lime."],
                           "history" : "",
                           "src": "https://www.youtube.com/embed/peYS5TJl8Tk",
-                          "name": "Paloma"
+                          "name": "Paloma",
+                          "page": "results_3",
+                          "wiki": "https://en.wikipedia.org/wiki/Paloma_(cocktail)"
                         },
     "penicillin" :       { "ingredients" : ["2 oz Blended Scotch Whiskey", " .75 oz Fresh Lemon Juice", " .75 oz Honey Ginger Syrup",
                                             ".25 oz Islay Whiskey", "Garnish: Skewered Ginger"],
@@ -205,7 +238,9 @@ ct = {
                                              "5. Garnish with ginger."],
                            "history": "",
                            "src" : "https://www.youtube.com/embed/KYixmx56Agk",
-                           "name": "Penicillin"
+                           "name": "Penicillin",
+                            "page": "results_3",
+                           "wiki": "https://en.wikipedia.org/wiki/Penicillin_(cocktail)"
                         },
     "pisco_sour" :      { "ingredients" : ["2 oz Pisco", ".75 oz Lime Juice", ".75 oz Simple Syrup", "1 egg white",
                                            "Garnish: Angostura Bitters"],
@@ -216,7 +251,8 @@ ct = {
                                             "5. Garnish with 3 to 5 drops of Angostura bitters."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/JRkUtNlNN0U",
-                          "name": "Pisco Sour"
+                          "name": "Pisco Sour",
+                            "page": "results_3"
                         },
     "sazerac" :         { "ingredients" : ["4 dashes Peychauds Bitters and Angostura Bitters", "1 Sugar Cube", "2 oz Rye Whiskey",
                                             "Garnish: Lemon Peel"],
@@ -226,7 +262,8 @@ ct = {
                                             "4. Twist the lemon peel over the drink's surface to express the peel's oils, then garnish with the peel."],
                           "history": "",
                           "src": "https://www.youtube.com/embed/RuZzOcjJUYw",
-                          "name": "Sazerac"
+                          "name": "Sazerac",
+                            "page": "results_3"
                         },
     "vieux_carre" :     { "ingredients" : ["1 oz Rye Whiskey", " 1 oz Cognac", "1 oz Sweet Vermouth", "Dash of Benedictine liqueur",
                                            "2 Dashes of Angostura Bitters", " Garnish: Orange Twist and Luxardo Cherry"],
@@ -237,7 +274,9 @@ ct = {
                                             "4. Garnish with a cheery, a lemon twist, or both."],
                           "history": '',
                           "src" : "https://www.youtube.com/embed/UR5rahGRxhs",
-                          "name" : "Vieux Carre"
+                          "name" : "Vieux Carre",
+                            "page": "results_3",
+                          "wiki": "https://en.wikipedia.org/wiki/Vieux_Carr%C3%A9_(cocktail)"
                         },
     "whiskey_sour" :    { "ingredients" : ["2 oz Whiskey", ".75 oz Lemon Juice", ".75 oz Simple Syrup", "1 egg white",
                                            "Garnish: Angostura Bitters"],
@@ -248,11 +287,10 @@ ct = {
                                             "5. Garnish with 3 or 4 drops of Angostura bitters."],
                           "history":"",
                           "src" : "https://www.youtube.com/embed/hFKZPzfngcU",
-                          "name" : "Whiskey Sour"
+                          "name" : "Whiskey Sour",
+                          "page": "results_3",
                         }
 }
-
-
 
 @app.route("/aboutus")
 def hello():
@@ -276,16 +314,20 @@ def result3():
 
 @app.route("/<string:cocktail>", methods =['GET', 'POST'])
 def information(cocktail):
+    """This function will take a cocktail as a parameter in the url.
+    Will render information.html and send cocktail dictionary as parameters
+    in order to display cocktail information.
+    """
     url = 'https://darwady2.pythonanywhere.com/get_history/' + str(cocktail)
     r = requests.get(url)
     data = r.json()
     ct[cocktail]["history"] = data['history_text']
-    #print(data['history_text'])
 
     return render_template("information.html", posts=ct[cocktail])
 
-
-
+@app.route("/search")
+def search():
+    return render_template("search.html")
 #@app.route('/posts', methods=['GET', 'POST'])
 #def posts():
 #    if request.method == 'POST':
@@ -304,4 +346,3 @@ def information(cocktail):
 
 if __name__ == "__main__":
     app.run(debug=True)
-
